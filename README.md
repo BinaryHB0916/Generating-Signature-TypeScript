@@ -1,3 +1,5 @@
 # Next.ID-demo
 
-This is a quick start to generate a Persona in Next.ID using TypeScript. Have Fun!
+This is a demo to show you:
+
+How to generate a signature eachtime you need go with Persona in Next.ID using TypeScript. Have Fun!
